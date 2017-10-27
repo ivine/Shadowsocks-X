@@ -34,7 +34,7 @@ There are total four modes in this app:
 - Shows QRCode for current active server.
 - Scans QRCode from screen.
 - Supports Launch At Login.
-- Users can customized their own rules.
+- Users can customize their own rules.
 - Support for [AEAD Ciphers](https://shadowsocks.org/en/spec/AEAD-Ciphers.html)
 - Supports KCP [kcptun](https://github.com/xtaci/kcptun). 
 - Supports two more modes: Oversea Mode & Blacklist Mode
