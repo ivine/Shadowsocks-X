@@ -1,6 +1,6 @@
 # Shadowsocks-X
 
-Current version is 1.1
+Current version is 1.7
 
 It's based on the old Shadowsocks software developed by clowindy,written in objc.
 
