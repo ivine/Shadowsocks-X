@@ -42,6 +42,8 @@ There are total four modes in this app:
 ## Difference from original Shadowsocks-X
 - Block AD function is added
 - Two more Modes: Oversea Modes &  Blacklist Modes
+- Supports Kcptun
+- Embedded with a http proxy
 
 
 ## License
